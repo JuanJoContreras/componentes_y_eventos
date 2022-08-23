@@ -1,5 +1,5 @@
 body {
-  margin: 5%;
+  margin: 2%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -15,8 +15,8 @@ code {
 .App{
   display: flexbox;
   flex-direction: column;
-  /*width: 80%;
-  height: 30%;*/
+  width: 80%;
+  height: 60%;
   text-align: center;
   background-color: #4e4d4d;
   color:wheat;
@@ -51,7 +51,7 @@ code {
 .Formulario { 
   display: flexbox;
   flex-direction: column;
-  width: 100%;
+  width: 90%;
   /*height: 70%;*/
   /*box-shadow: 1px 1px 5px 1px #e1e2e1;
   border-radius: 40px;
